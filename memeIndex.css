@@ -1,0 +1,35 @@
+div{
+  display: inline-block;
+
+}
+
+body {
+        background-color: #66ccff;
+}
+
+.links{
+  text-decoration: none;
+}
+.menuBar {
+  border-radius: 20%;
+  text-align: center;
+  width: 400px;
+  height: 100px;
+  background-color: #aaaaaa;
+  font-family: arial;
+  font-size: 70px;
+
+}
+
+.menuBar:hover{
+  background-color: #bbbbbb;
+}
+.menuBar:visited{
+
+}
+
+.memeTable{
+  font-size: 30px;
+  text-decoration: none;
+  font-family: monospace;
+}
